@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tamal Ahmed</h1>
 <h3 align="center">I thought i would love to learn then I started learning. i don't want to learn anymore. I wanna go home.</h3>
-<img align="right" alt="coding to sleep" src="https://camo.githubusercontent.com/1af641272be63b125ac40543c6f8d4f7cb7a34ac76d092510ad9f967de49a6e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934616b394b6932475a43624a78416e4a442f67697068792e676966">
+<img align="right" alt="coding to sleep" src="https://giffiles.alphacoders.com/361/36156.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamal36&label=Profile%20views&color=0e75b6&style=flat" alt="tamal36" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working as an **AI Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ta-Ah/Ta-Ah.github.io](https://github.com/Ta-Ah/Ta-Ah.github.io)
 
